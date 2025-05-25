@@ -12,7 +12,7 @@ Welcome to Hello Foodies, a modern and user-friendly frontend for a food deliver
 
 📦 How to Run Locally
 1. Download this website.
-2. Open Index.html (recommend VSCode).
+2. Open Index.html Or use a live server extension.
 3. Download live server extrantion on vscode
 4. now open this site on live server
 
